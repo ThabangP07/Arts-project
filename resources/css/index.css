@@ -28,3 +28,9 @@
 }
 
 /*section 3*/
+.paint h2 {
+    background-color: skyblue;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
+}
