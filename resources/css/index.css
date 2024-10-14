@@ -33,3 +33,9 @@ h2 {
 .paint h2 {
     background-color: skyblue;
 }
+
+/*Prices*/
+.price {
+    font-weight: bold;
+    color: blue;
+}
