@@ -13,7 +13,10 @@
 
 /*section 1*/
 .brushes h2 {
-    background-color: aqua;
+    background-color: mediumspringgreen;
+    font-size: 32px;
+    font-weight: bold;
+    color:white;
 }
 
 /*section 2*/
